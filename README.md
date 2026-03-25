@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Andrews-Osei
+- 👋 Hi, I’m Andrews-Osei
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently a python  programmer and building of ML models
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :you can send me e-mailvia qwardwosei1844@gmail.com
 
