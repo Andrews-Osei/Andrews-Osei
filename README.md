@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Andrews-Osei
-- 👀 I’m interested in programming
-- 🌱 I’m currently a python  programmer and building of ML models
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :you can send me e-mailvia qwardwosei1844@gmail.com
+# Hi there, I'm Osei Andrews 👋
 
-<!---
-Andrews-Osei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an Electrical and Electronic Engineer with a strong focus on Data Analysis and Machine Learning. As an engineering student, I am passionate about bridging the gap between hardware and software, specifically applying AI and data science to Smart Energy, IoT systems, and predictive modeling.
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python
+* **Data & ML:** Predictive Modeling, Machine Learning Engineering
+* **Visualization:** Power BI, Streamlit, Flask
+* **Domain Focus:** Power Systems Protection, Renewable Energy, Medical Image Classification
+
+### Let's Connect
+* **LinkedIn:** [www.linkedin.com/in/andrews-osei-6632092b6]
+* **Kaggle:** [[Insert your Kaggle URL](https://www.kaggle.com/andrews44)]
