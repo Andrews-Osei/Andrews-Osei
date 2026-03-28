@@ -10,4 +10,4 @@ I am an Electrical and Electronic Engineer with a strong focus on Data Analysis 
 
 ### Let's Connect
 * **LinkedIn:** [www.linkedin.com/in/andrews-osei-6632092b6]
-* **Kaggle:** [[Insert your Kaggle URL](https://www.kaggle.com/andrews44)]
+* **Kaggle:** [https://www.kaggle.com/andrews44]
